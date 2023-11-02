@@ -46,7 +46,7 @@ cd pactus-cli_0.16.0
 screen -S pactus
 ./pactus-daemon start -w ~/pactus
 ```
-### sync olmasını bekleyin explorer: https://explorer.codeblocklabs.com/pactus/validator.php
+### sync olmasını bekleyin
 explorer: https://explorer.codeblocklabs.com/pactus/validator.php
 
 - Sync olduktan sonra 1. validatör adresine token isteyin.
