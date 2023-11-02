@@ -1,5 +1,13 @@
-# Pactus
 
+<h1 align="center"> Pactus Testnet</h1>
+
+<div align="center">
+
+![image](https://github.com/0xSocrates/Testnet-Rehberler/assets/108215275/fc854b16-a554-419c-afbf-f99de720060a)
+
+#  | [Twitter](https://twitter.com/pactuschain/) | [Discord](https://discord.gg/zdX6wNUFvg) | [Website](https://pactus.org/) | [Github](https://github.com/pactus-project) |
+
+</div>
 
 <h1 align="center">Pactus</h1>
 
@@ -27,9 +35,9 @@ lsof -i -P -n | grep LISTEN
 sudo apt update -y && sudo apt upgrade -y
 sudo apt install screen
 
-curl --proto '=https' --tlsv1.2 -sSL  https://github.com/pactus-project/pactus/releases/download/v0.15.1/pactus_downloader.sh | sh
+curl --proto '=https' --tlsv1.2 -sSL  https://github.com/pactus-project/pactus/releases/download/v0.15.2/pactus_downloader.sh | sh
 
-cd pactus-cli_0.15.1
+cd pactus-cli_0.15.2
 
 ### 12 kelimenizi alın ve şifrenizi yedekleyin.
 ./pactus-daemon init -w ~/pactus --testnet
@@ -44,6 +52,8 @@ screen -S pactus
 
 - Bu aşamada bu adresinize otomatik `delege` edilecek ve `discord=validatör` bağlantısı yapılacak
 
-
+## [Faucet](https://discord.gg/UdquSvMQh6)
+## [Explorer](https://www.pactusscan.com/)
+## [Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ-uiNQtGZdqdApwOCU9oF_O2qAVVa2P2EJtLJvKHxvjQhpQ/viewform)
 
 
