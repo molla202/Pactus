@@ -51,6 +51,8 @@ explorer: https://explorer.codeblocklabs.com/pactus/validator.php
 
 - Sync olduktan sonra 1. validatör adresine token isteyin.
 
+- reward adreslerinin ilkinde kazançlar zamanla gorulmeye baslanıcak ve artıcak
+
 - Bu aşamada bu adresinize otomatik `delege` edilecek ve `discord=validatör` bağlantısı yapılacak
 
 
